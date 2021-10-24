@@ -14,7 +14,7 @@ int main()
     int** ptr2ptr(&ptr2int);
     int*** ptr2ptr2(&ptr2ptr);
 
-    do {
+    do { 
         
         Sleep(250);
 
