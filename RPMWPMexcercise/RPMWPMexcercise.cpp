@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	
+	 
 
 	int intRead = 0;
 	int ptrRead = 0;
